@@ -3,12 +3,12 @@
 I am an enthusiastic web developer looking for some good opportunity related to web development. The challenges of making components in React excites me the most. Building logic that fits the requirement for both frontend and backend is always a difficult task but gives the opportunity of testing your temper, and intelligence. Designing a fully responsive website for all screen types is a job that I never feel tired of. 
 I see colors and patterns in this astounding world and try to apply those in the UI.
 
-## Web Developer Skillset
+## Web Developement Skillset
 * React 
 * Node JS
 * Bootstrap
 * MongoDB
-* Fully responsive
+* Responsive UI
 * Restful API
 * Redux
 
